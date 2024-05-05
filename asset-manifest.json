@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/free/static/css/main.e1f2bb6b.css",
+    "main.js": "/free/static/js/main.52471edf.js",
+    "static/js/725.ef1aeb46.chunk.js": "/free/static/js/725.ef1aeb46.chunk.js",
+    "static/js/122.3b67baf1.chunk.js": "/free/static/js/122.3b67baf1.chunk.js",
+    "static/js/880.de4db47d.chunk.js": "/free/static/js/880.de4db47d.chunk.js",
+    "static/js/48.f249adaa.chunk.js": "/free/static/js/48.f249adaa.chunk.js",
+    "static/js/219.7174b649.chunk.js": "/free/static/js/219.7174b649.chunk.js",
+    "static/js/662.357b8ce5.chunk.js": "/free/static/js/662.357b8ce5.chunk.js",
+    "static/js/688.f39d5c04.chunk.js": "/free/static/js/688.f39d5c04.chunk.js",
+    "static/js/537.42db4c7e.chunk.js": "/free/static/js/537.42db4c7e.chunk.js",
+    "static/js/740.54b093fe.chunk.js": "/free/static/js/740.54b093fe.chunk.js",
+    "static/js/298.f62a7584.chunk.js": "/free/static/js/298.f62a7584.chunk.js",
+    "static/js/297.41ff0563.chunk.js": "/free/static/js/297.41ff0563.chunk.js",
+    "static/js/532.e06ba50e.chunk.js": "/free/static/js/532.e06ba50e.chunk.js",
+    "static/js/685.835effa4.chunk.js": "/free/static/js/685.835effa4.chunk.js",
+    "static/js/655.f46f4c02.chunk.js": "/free/static/js/655.f46f4c02.chunk.js",
+    "static/js/852.1ad555e6.chunk.js": "/free/static/js/852.1ad555e6.chunk.js",
+    "static/js/348.ccc4dffc.chunk.js": "/free/static/js/348.ccc4dffc.chunk.js",
+    "static/js/256.b2353fc5.chunk.js": "/free/static/js/256.b2353fc5.chunk.js",
+    "static/js/452.e7425b29.chunk.js": "/free/static/js/452.e7425b29.chunk.js",
+    "static/js/236.458a8d0c.chunk.js": "/free/static/js/236.458a8d0c.chunk.js",
+    "static/js/123.46cb2d70.chunk.js": "/free/static/js/123.46cb2d70.chunk.js",
+    "static/js/966.65f459ae.chunk.js": "/free/static/js/966.65f459ae.chunk.js",
+    "static/js/8.27c4a37c.chunk.js": "/free/static/js/8.27c4a37c.chunk.js",
+    "static/css/583.fdf7ce70.chunk.css": "/free/static/css/583.fdf7ce70.chunk.css",
+    "static/js/373.b8e80778.chunk.js": "/free/static/js/373.b8e80778.chunk.js",
+    "index.html": "/free/index.html",
+    "static/media/google.svg": "/free/static/media/google.b7da2ce748745374ee27eb11dd475b9c.svg",
+    "static/media/twitter.svg": "/free/static/media/twitter.5b9c9738bc8e86846c91f27886cebacf.svg",
+    "static/media/facebook.svg": "/free/static/media/facebook.5b823a6232805871728da1033d817609.svg"
+  },
+  "entrypoints": [
+    "static/css/main.e1f2bb6b.css",
+    "static/js/main.52471edf.js"
+  ]
+}
